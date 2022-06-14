@@ -41,6 +41,5 @@ function naiveSearch(long, short){
     return count;
 }
 
-naiveSearch("Hi I am emma", "mma")
 
-stringSearch("Hi I am emma", "ma")
+stringSearch("Hi I am emma", "mma")
