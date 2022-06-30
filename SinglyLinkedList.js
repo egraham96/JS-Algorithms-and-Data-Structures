@@ -865,8 +865,8 @@ set(index, val){
 
 
 /*Big O Notation of Singly Linked List:
-Insertion: 0(1)
-Removal: shift: 0(n) pop 0(n)
+Insertion: 0(1), same for unshift or push.
+Removal: shift: 0(1) pop: 0(n)
 Searching: 0(n)
 Accessing: 0(n)
 */
